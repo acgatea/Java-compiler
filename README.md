@@ -1,4 +1,4 @@
-# CS444 Winter 2018 Project
+# CS444 Winter 2018 Project: Joos Compiler
 ## Alex Gatea, Carl Zhou
 
 A full compiler for Joos, a substantial subset of Java. Coded in Java.
