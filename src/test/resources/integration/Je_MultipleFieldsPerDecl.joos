@@ -1,0 +1,6 @@
+// 1 field per declaration
+
+public class Je_MultipleFieldsPerDecl {
+    public Je_MultipleFieldsPerDecl() {}
+    public int a, b;
+}

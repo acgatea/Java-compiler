@@ -1,0 +1,8 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - private class not allowed
+ */
+abstract class Je_PrivateClass{
+    public Je_PrivateClass(){}
+}

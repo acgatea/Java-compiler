@@ -1,0 +1,9 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * -cannot be both public and protected
+ */
+public class Je_PublicAndProtected2{
+    public Je_PublicAndProtected2(){}
+    protected static public int j;
+}

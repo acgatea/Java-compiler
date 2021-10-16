@@ -1,0 +1,16 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - Cast to expression not allowed
+ */
+public class Je_CastNum{
+
+    public Je_CastNum(){}
+
+    public static int test(){
+
+	int a=2;
+	int c = (5) a;
+	return c;
+    }
+}
