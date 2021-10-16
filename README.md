@@ -3,6 +3,8 @@
 
 A full compiler for Joos, a substantial subset of Java. Coded in Java.
 
+Source files in src/main/java/cs444/group9/
+
 Documentation and Java Language Specification in docs.
 
 Executable named joosc.
