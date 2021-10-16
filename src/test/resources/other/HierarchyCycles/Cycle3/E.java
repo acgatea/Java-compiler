@@ -1,0 +1,8 @@
+
+//     D   C    D - A  - E - D
+//      \   |     /
+//          B
+//
+package cyclePack;
+
+public interface E{}
