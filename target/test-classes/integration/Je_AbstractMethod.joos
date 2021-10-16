@@ -1,0 +1,9 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - abstract method cannot be present in non-abstract class
+ */
+public class Je_AbstractMethod{
+    public Je_AbstractMethod(){}
+    public abstract void flimflam();
+}

@@ -1,0 +1,6 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - missing constructor
+ */
+public class Je_NoConstructor1{}

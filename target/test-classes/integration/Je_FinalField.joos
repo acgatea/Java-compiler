@@ -1,0 +1,9 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - final field not allowed
+ */
+public class Je_FinalField{
+    public Je_FinalField(){}
+    public final int k;
+}

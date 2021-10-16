@@ -1,0 +1,24 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - Cast of complement expression
+ */
+public class Je_CastIDPLUSID{
+
+    public Je_CastIDPLUSID(){}
+
+    public static int test(){
+
+	int a=2;
+	boolean t = true;
+	boolean b = (boolean)!t;
+	int c = (a+a)4;
+	if (b){
+	    return 124733;
+	}
+	else {
+	    return 123;
+	}
+    }
+
+}

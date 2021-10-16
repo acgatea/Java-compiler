@@ -1,0 +1,26 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - protected class not allowed
+ */
+
+protected class Je_ProtectedClass{
+    public Je_ProtectedClass(){}
+}
+
+
+/*
+public class Je_ProtectedClass{
+      public Je_ProtectedClass(){}
+      public int foo(){
+        int k1 = 3;
+        k1 = 5;
+        int k2 = 5;
+        {
+            int h1 = 2;
+            int h2 = h1;
+        }
+        int k3 = 7;
+      }
+}
+*/

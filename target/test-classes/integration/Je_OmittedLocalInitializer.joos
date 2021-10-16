@@ -1,0 +1,7 @@
+
+public class Je_OmittedLocalInitializer {
+    public Je_OmittedLocalInitializer() {}
+    public void m() {
+        int x ;
+    }
+}

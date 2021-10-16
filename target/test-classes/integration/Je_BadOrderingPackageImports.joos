@@ -1,0 +1,4 @@
+// package must come before import
+
+import good.Stuff;
+package out.of.order;

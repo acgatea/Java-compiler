@@ -1,0 +1,4 @@
+package thePack;
+import stuff.*;
+
+public interface J1_1_ImportsPackageClass{}

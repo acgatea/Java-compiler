@@ -1,0 +1,9 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - no duplicate modifiers
+ */
+public class Je_DuplicateModifier2{
+    public Je_DuplicateModifier2(){}
+    static public static int j;
+}
