@@ -1,0 +1,5 @@
+
+public class Je_MultipleVarsPerDecl {
+  public Je_MultipleVarsPerDecl(){}
+  public int x,y,z;
+}

@@ -1,0 +1,18 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - Empty cast not allowed
+ */
+public class Je_CastEmpty{
+
+    public Je_CastEmpty(){}
+
+    public static int test(){
+
+	int a=2;
+	boolean t = true;
+	boolean b = ()!t;
+	int c = 4;
+	return c;
+    }
+}

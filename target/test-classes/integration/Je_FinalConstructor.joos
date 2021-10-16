@@ -1,0 +1,8 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - final constructor not allowed
+ */
+public class Je_FinalConstructor{
+    public final Je_FinalConstructor(){}
+}

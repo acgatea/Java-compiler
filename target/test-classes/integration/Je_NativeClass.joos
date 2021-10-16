@@ -1,0 +1,8 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - native class not allowed
+ */
+native public class Je_NativeClass{
+    public Je_NativeClass(){}
+}

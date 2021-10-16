@@ -1,0 +1,11 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - missing constructor
+ */
+public class Je_NoConstructor2{
+    public int j;
+    public void foo(){
+        j = 2;
+    }
+}

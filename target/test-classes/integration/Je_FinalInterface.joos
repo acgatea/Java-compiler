@@ -1,0 +1,8 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - final interface not allowed
+ */
+public final interface Je_FinalInterface{
+    public abstract int foo();
+}

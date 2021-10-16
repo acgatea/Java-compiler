@@ -1,0 +1,11 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - out of range
+ */
+public class Je_LargeIntFail{
+    public Je_LargeIntFail(){};
+    public void foo(){
+        int g = -(2147483648);
+    }
+}

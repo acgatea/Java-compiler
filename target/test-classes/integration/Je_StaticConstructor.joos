@@ -1,0 +1,8 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - static constructor not allowed
+ */
+public class Je_StaticConstructor{
+    public static Je_StaticConstructor(){}
+}

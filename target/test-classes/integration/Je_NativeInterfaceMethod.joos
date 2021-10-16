@@ -1,0 +1,8 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - native interface method not allowed
+ */
+public interface Je_NativeInterface{
+    public native abstract int foo();
+}

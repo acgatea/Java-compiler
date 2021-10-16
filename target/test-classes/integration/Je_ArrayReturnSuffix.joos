@@ -1,0 +1,4 @@
+public class Je_ArrayReturnSuffix {
+  public Je_ArrayReturnSuffix() {}
+  public int foo()[] { return null; }
+}
