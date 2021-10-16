@@ -1,0 +1,9 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - abstract field not allowed
+ */
+public class Je_AbstractField{
+    public Je_AbstractField(){}
+    public abstract int k;
+}

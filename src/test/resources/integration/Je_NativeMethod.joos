@@ -1,0 +1,7 @@
+/*
+    - native method must be static
+*/
+public class Je_NativeMethod {
+    public Je_NativeMethod(){}
+    public native int foo();
+}

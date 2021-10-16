@@ -1,0 +1,5 @@
+
+public class Je_ArrayData {
+  public Je_ArrayData(){}
+  public int[] x = { 1, 1, 2, 3, 5, 8 };
+}

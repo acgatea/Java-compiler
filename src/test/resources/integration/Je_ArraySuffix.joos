@@ -1,0 +1,4 @@
+public class Je_ArraySuffix {
+  public Je_ArraySuffix() {}
+  public int x[];
+}

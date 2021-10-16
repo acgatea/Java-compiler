@@ -1,0 +1,10 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ */
+public class J1_LargeIntUnaryMinus{
+    public J1_LargeIntUnaryMinus(){};
+    public void foo(){
+        int g = 0 - - 2147483648;
+    }
+}

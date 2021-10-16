@@ -1,0 +1,8 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - protected interface not allowed
+ */
+protected interface Je_StaticInterface{
+    public abstract int foo();
+}

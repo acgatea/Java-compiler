@@ -1,0 +1,9 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - native field not allowed
+ */
+public class Je_NativeField{
+    public Je_NativeField(){}
+    public native int k;
+}

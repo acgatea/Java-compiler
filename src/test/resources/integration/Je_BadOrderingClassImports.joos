@@ -1,0 +1,6 @@
+
+public class Je_BadOrderingClassImports{
+    public Je_BadOrderingClassImports(){}
+}
+
+import j.*;

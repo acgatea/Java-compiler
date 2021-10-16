@@ -1,0 +1,8 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - abstract constructor not allowed
+ */
+public class Je_AbstractConstructor{
+    public abstract Je_AbstractConstructor(){}
+}

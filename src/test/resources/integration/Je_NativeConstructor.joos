@@ -1,0 +1,8 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - native constructor not allowed
+ */
+public class Je_NativeConstructor{
+    public native Je_NativeConstructor(){}
+}

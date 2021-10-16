@@ -1,0 +1,8 @@
+// PARSER_WEEDER
+/**
+ * Parser/weeder
+ * - static class not allowed
+ */
+public static class Je_StaticClass{
+    public Je_StaticClass(){}
+}
