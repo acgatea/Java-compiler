@@ -1,0 +1,25 @@
+j1_interface_extends
+<<<<<<< HEAD
+je_interface_self_extend
+j1_interface_method_override
+je_implements_method_no_override
+j1_method_overload
+J1_method_override_overload_extends
+J1_implements_multiple
+=======
+j1_interface_override_field
+je_interface_self_extend
+j1_interface_method_override
+je_implements_method_no_override
+j1_inherit_ambiguous_field
+je_access_ambiguous_field
+j1_method_overload
+j1_protected_field_access
+j1_protected_method_access
+je_protected_field_access
+je_protected_method_access
+j1_field_initializer
+je_field_no_initializer
+je_field_before_initialized
+>>>>>>> add test J1_Interface_Extends
+
